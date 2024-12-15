@@ -1,0 +1,12 @@
+/* custom.css */
+.home-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: .5em;
+    margin-bottom: 1em;
+}
+
+.post-heading {
+    margin-top: 5em;
+}
