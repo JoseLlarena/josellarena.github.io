@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Automata in Spades"
-date:   Mon 23 Dec 20:24:13 GMT 2024
+date: Wed 25 Dec 21:01:04 GMT 2024
 tags: [NNs WFSAs Explanation]
 author: J. Llarena
 ---
