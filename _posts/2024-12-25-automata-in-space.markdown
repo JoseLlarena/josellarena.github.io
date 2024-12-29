@@ -6,7 +6,7 @@ tags: [NNs WFSAs Explanation]
 author: J. Llarena
 ---
 
-PDF [Automata in Space: Formal Language Theory meets Neural Computation](/assets/doc/ais-paper-v1.pdf).
+PDF [Automata in Space: Formal Language Theory meets Neural Computation](/assets/doc/ais-paper-v2.pdf).
 
 Code: [https://github.com/JoseLlarena/ais](https://github.com/JoseLlarena/ais)
 
@@ -15,7 +15,7 @@ BibTeX Citation:
 @unpublished{llarena2024automata,
   author    = {Llarena, J.},
   title     = {Automata in Space: Formal Language Theory meets Neural Computation},
-  note      = {https://josellarena.github.io/assets/doc/ais-paper-v1.pdf},
+  note      = {https://josellarena.github.io/assets/doc/ais-paper-v2.pdf},
   year      = {2024}
 }
 ```
